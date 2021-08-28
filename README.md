@@ -4,4 +4,4 @@ Gosto de sempre aprender tecnologias novas e tenho o foco voltado para o Front-e
 
 - 📍São Paulo, SP
 
- ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-furtado-b9a6601b7/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-furtado-b9a6601b7/)](https://www.linkedin.com/in/lucas-furtado-b9a6601b7/)
