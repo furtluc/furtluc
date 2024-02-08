@@ -1,7 +1,7 @@
 # Olá 😃
 Meu nome é Lucas Furtado, tenho 21 anos, sou formado em Análise e Desenvolvimentos de Sistemas.
 Atualmente trabalhando com tecnologias na área de TAX, utilizando Alteryx e outras ferramentas.
-Tenho grande interesse em me desenvolver na área de Front-end, utilizando React.Js
+Tenho grande interesse em me desenvolver na área de Front-end, utilizando React.Js e aprofundar meu conhecimento em UX/UI Design.
 
 - 📍São Paulo, SP
 
