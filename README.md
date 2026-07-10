@@ -1,7 +1,8 @@
 # Olá 😃
-Meu nome é Lucas Furtado, tenho 22 anos, sou formado em Análise e Desenvolvimentos de Sistemas.
-Atualmente trabalhando com tecnologias na área de TAX, utilizando Alteryx, SQL, Power BI e outras ferramentas.
-Tenho grande interesse em me desenvolver na área de dados, como Analista de Dados BI
+Meu nome é Lucas Furtado, tenho 24 anos, sou formado em Análise e Desenvolvimentos de Sistemas.
+Atualmente trabalhando como Analista de Dados, utilizando Python, SQL, Power BI e outras ferramentas.
+
+No momento, estou trabalhando em novos projetos de pipeline/ETL para conhecimento de novas ferramentas e migração para Engenharia de Dados.
 
 - 📍Florianópolis, SC
 
