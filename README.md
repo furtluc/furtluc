@@ -1,4 +1,4 @@
-# Hello 😃
+# Hello ⚙️🎲
 My name is Lucas Furtado, I'm 24 years old, and I have a degree in Systems Analysis and Development.
 
 I currently work as a Data Analyst, using Python, SQL, Power BI, and other tools focused on data analysis and processing.
