@@ -1,9 +1,10 @@
-# Olá 😃
-Meu nome é Lucas Furtado, tenho 24 anos, sou formado em Análise e Desenvolvimentos de Sistemas.
-Atualmente trabalhando como Analista de Dados, utilizando Python, SQL, Power BI e outras ferramentas.
+# Hello 😃
+My name is Lucas Furtado, I'm 24 years old, and I have a degree in Systems Analysis and Development.
 
-No momento, estou trabalhando em novos projetos de pipeline/ETL para conhecimento de novas ferramentas e migração para Engenharia de Dados.
+I currently work as a Data Analyst, using Python, SQL, Power BI, and other tools focused on data analysis and processing.
 
-- 📍Florianópolis, SC
+At the moment, I'm working on new data pipeline and ETL projects, exploring new tools and technologies with the goal of developing my career in Data Engineering.
+
+- 📍Florianópolis, SC - Brazil
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-furtado-b9a6601b7/)](https://www.linkedin.com/in/lucas-furtado-b9a6601b7/)
