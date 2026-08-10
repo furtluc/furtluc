@@ -12,8 +12,8 @@ At the moment, I'm working on new **data pipeline and ETL projects**, exploring 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="./Currículo - LF_pt_br.pdf">
-  <img src="https://img.shields.io/badge/CV%20Portugu%C3%AAs-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Português">
+  <img src="https://img.shields.io/badge/CV%20Portugu%C3%AAs-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo em Português">
 </a>
 <a href="./Resume - LF_en.pdf">
-  <img src="https://img.shields.io/badge/English%20CV-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="English CV">
+  <img src="https://img.shields.io/badge/English%20CV-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="English Resume">
 </a>
