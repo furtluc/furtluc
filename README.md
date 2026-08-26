@@ -12,10 +12,10 @@ At the moment, I'm working on new **data pipeline and ETL projects**, exploring 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://raw.githubusercontent.com/furtluc/furtluc/main/Curr%C3%ADculo%20-%20LF_pt_br.pdf">
+<a href="https://raw.githubusercontent.com/furtluc/furtluc/main/Curr%C3%ADculo%20-%20LF.pdf">
   <img src="https://img.shields.io/badge/CURR%C3%8DCULO%20(PT--BR)-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo (PT-BR)">
 </a>
 
-<a href="https://raw.githubusercontent.com/furtluc/furtluc/main/Resume%20-%20LF_en.pdf">
+<a href="https://raw.githubusercontent.com/furtluc/furtluc/main/Resume%20-%20LF.pdf">
   <img src="https://img.shields.io/badge/RESUME-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
 </a>
